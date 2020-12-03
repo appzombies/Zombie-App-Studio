@@ -1,5 +1,5 @@
-[
-    {
+
+ {
     "fb_banner" : "YOUR_PLACEMENT_ID",
     "fb_interstitial" : "YOUR_PLACEMENT_ID",
     "fb_native" : "YOUR_PLACEMENT_ID",
@@ -12,7 +12,6 @@
     "ad_type" : "0",
     "appnext_id" : "",
     "new_pkg" : "com.oms.videocalladvice",
-    "is_version" : "false"
+    "is_version" : "false",
     "is_tube":"no"
   }
-]
