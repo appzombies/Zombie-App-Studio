@@ -1,17 +1,16 @@
 
  {
-    "fb_banner" : "YOUR_PLACEMENT_ID",
-    "fb_interstitial" : "YOUR_PLACEMENT_ID",
-    "fb_native" : "YOUR_PLACEMENT_ID",
-    "fb_mid_rect" : "YOUR_PLACEMENT_ID",
-    "admob_pub_id" : "pub-7609730710607270",
-    "admob_app_id" : "ca-app-pub-7609730710607270~8437583019",
-    "admob_banner" : "ca-app-pub-7609730710607270/9746795257",
-    "admob_interstitial" : "ca-app-pub-7609730710607270/3580185614",
-    "admob_native" : "ca-app-pub-7609730710607270/2267103949",
+    "fb_banner" : "2739859429561126_2739860172894385",
+    "fb_interstitial" : "2739859429561126_2739860019561067",
+    "fb_native" : "2739859429561126_2739859709561098",
+    "fb_native_banner" : "2739859429561126_2739860366227699",
+    "admob_pub_id" : "pub-6789415132177720",
+    "admob_app_id" : "ca-app-pub-6789415132177720~2190870298",
+    "admob_banner" : "ca-app-pub-6789415132177720/8874524681",
+    "admob_interstitial" : "ca-app-pub-6789415132177720/4935279679",
+    "admob_native" : "ca-app-pub-6789415132177720/2629853998",
     "ad_type" : "0",
-    "appnext_id" : "",
-    "new_pkg" : "com.oms.videocalladvice",
+    "new_pkg" : "com.zas.downloadvideo",
     "is_version" : "false",
     "is_tube":"yes"
   }
